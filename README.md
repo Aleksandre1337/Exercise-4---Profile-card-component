@@ -4,8 +4,8 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 
 ### Links
 
-- Solution URL: [Click here](not available yet)
-- Live Site URL: [Click here](not yet available)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/exercise-4-profile-card-component-YZzpd6NY18)
+- Live Site URL: [Click here](https://grand-beijinho-cf7ba0.netlify.app/)
 
 ### Created with
 
